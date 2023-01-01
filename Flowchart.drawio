@@ -1,165 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-01T19:50:36.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="EMQzSAklx4d1V3r7lEfv" version="20.5.3" type="github" pages="3">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Total">
-    <mxGraphModel dx="1449" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="C031BOJRRR1FeItKXoRA-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-0" target="C031BOJRRR1FeItKXoRA-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-0" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;3D 페인팅 프로그램&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#017FA4;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-2" target="C031BOJRRR1FeItKXoRA-0" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="529" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="529" y="130" />
-              <mxPoint x="349" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-2" target="C031BOJRRR1FeItKXoRA-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="529" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="529" y="130" />
-              <mxPoint x="699" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-2" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;3D 페인팅 기반 도시 재생&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#023756;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="449" y="40" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-3" target="C031BOJRRR1FeItKXoRA-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;작품 확인 AR 앱&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#017FA4;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="629" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-10" target="C031BOJRRR1FeItKXoRA-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-10" target="C031BOJRRR1FeItKXoRA-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="349" y="330" />
-              <mxPoint x="119" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-10" target="C031BOJRRR1FeItKXoRA-57" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="349" y="330" />
-              <mxPoint x="549" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-10" value="도시 선택" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279" y="260" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-25" target="C031BOJRRR1FeItKXoRA-36" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-25" value="새 작품 생성" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="59" y="370" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-27" target="C031BOJRRR1FeItKXoRA-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-27" value="카메라 활성화" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="639" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-29" target="C031BOJRRR1FeItKXoRA-46" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-29" value="해당 위치 타겟 인식" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="639" y="370" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-34" target="C031BOJRRR1FeItKXoRA-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-34" value="&lt;font color=&quot;#000000&quot;&gt;저장되어 있는 작품 불러오기&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="270.25" y="370" width="157.5" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-36" target="C031BOJRRR1FeItKXoRA-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="259" y="560" />
-              <mxPoint x="259" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-36" value="작품 수정 및 저장" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="179" y="480" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.336;entryY=1.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-38" target="C031BOJRRR1FeItKXoRA-36" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="219" y="580" />
-              <mxPoint x="219" y="580" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-38" value="작품 관람" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="179" y="585" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="C031BOJRRR1FeItKXoRA-46" target="C031BOJRRR1FeItKXoRA-60" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-46" value="저장된 작품 자동 생성" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="629" y="480" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-57" value="저장되어 있는 작품 삭제" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="479" y="370" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="C031BOJRRR1FeItKXoRA-60" value="작품 관람" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="639" y="585" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-0" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;3D 페인팅 프로그램&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#017FA4;strokeColor=none;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279" y="150" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-1" value="도시 선택" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="279" y="260" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SjAAJzb9qyIEHPuHCztw-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="349.1" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SjAAJzb9qyIEHPuHCztw-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="349" y="330" />
-              <mxPoint x="549" y="330" />
-            </Array>
-            <mxPoint x="549" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#016482;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SjAAJzb9qyIEHPuHCztw-1" target="SjAAJzb9qyIEHPuHCztw-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="349" y="330" />
-              <mxPoint x="119" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SjAAJzb9qyIEHPuHCztw-5" value="새 작품 생성" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="59" y="370" width="120" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2023-01-01T19:54:45.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fWzVRLnZ3mYqRRply0DG" version="20.5.3" type="github" pages="2">
   <diagram id="0Tc5Oaj9SwS8o_Ec8f2o" name="VR">
     <mxGraphModel dx="1511" dy="966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qtabU7gFvlMQMiDVvUra-3" value="작품 저장" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="415" y="820" width="120" height="40" as="geometry" />
+          <mxGeometry x="795" y="821.25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;" edge="1" parent="1" source="qtabU7gFvlMQMiDVvUra-7" target="Y2X15AQUxk6_g9tdpNL3-3">
           <mxGeometry relative="1" as="geometry">
@@ -229,10 +75,18 @@
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-36" value="왼쪽 스틱: 이동&lt;br&gt;오른쪽 스틱: 방향 전환" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="680" y="445" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y2X15AQUxk6_g9tdpNL3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-37" target="Y2X15AQUxk6_g9tdpNL3-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y2X15AQUxk6_g9tdpNL3-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-37" target="Y2X15AQUxk6_g9tdpNL3-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="583" y="700" />
+              <mxPoint x="855" y="700" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-37" target="Y2X15AQUxk6_g9tdpNL3-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHqtFZNeScns30KGeoYj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-37" target="lHqtFZNeScns30KGeoYj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-37" value="작품 그리기 모드로 전환" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
@@ -251,31 +105,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-42" value="&#39;작품 저장&#39; 선택" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="740" width="150" height="40" as="geometry" />
+          <mxGeometry x="780" y="740" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-44" target="Y2X15AQUxk6_g9tdpNL3-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-44" value="&#39;나가기&#39; 선택" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="740" width="150" height="40" as="geometry" />
+          <mxGeometry x="390" y="740" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-47" value="AR앱과 연동되어 저장됨" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="822.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="920" y="821.25" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2X15AQUxk6_g9tdpNL3-48" target="Y2X15AQUxk6_g9tdpNL3-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="695" y="950" />
-              <mxPoint x="210" y="950" />
+              <mxPoint x="210" y="840" />
               <mxPoint x="210" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2X15AQUxk6_g9tdpNL3-48" value="도시 모드로 전환" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="625" y="822.5" width="140" height="37.5" as="geometry" />
+          <mxGeometry x="395" y="820" width="140" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="pG31wIY7GvQs_LI_aRAO-1" value="환경설정, BGM 부분은 주요 기능이 아닌 것 같아서 일단 미룸.." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="120" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lHqtFZNeScns30KGeoYj-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="lHqtFZNeScns30KGeoYj-1" target="lHqtFZNeScns30KGeoYj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lHqtFZNeScns30KGeoYj-1" value="&#39;새로 그리기&#39; 선택" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="740" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lHqtFZNeScns30KGeoYj-3" value="작품 삭제" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="820" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -285,6 +147,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" source="HMF9IGxEyGGYXBjK1Cey-1" target="5JqX55-lONSCy-ZfpxVE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMF9IGxEyGGYXBjK1Cey-1" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;작품 확인 AR 앱&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#017FA4;strokeColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="344" y="50" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#FFFFFF;" edge="1" parent="1" source="5JqX55-lONSCy-ZfpxVE-2" target="5JqX55-lONSCy-ZfpxVE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-2" value="카메라 활성화" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" edge="1" parent="1" source="5JqX55-lONSCy-ZfpxVE-4" target="5JqX55-lONSCy-ZfpxVE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-4" value="해당 위치 타겟 인식" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#016482;fontColor=#000000;" edge="1" parent="1" source="5JqX55-lONSCy-ZfpxVE-6" target="5JqX55-lONSCy-ZfpxVE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-6" value="저장된 작품 자동 생성" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="370" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5JqX55-lONSCy-ZfpxVE-7" value="작품 관람" style="whiteSpace=wrap;html=1;fillColor=#D9D9D9;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="475" width="120" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
